@@ -1,5 +1,7 @@
 # CS109-STAT121-AC209-E-109---Exercises Solutions
 
+This repo contains Exercises solutions for [this](https://pages.github.com/) set of problems. Homeworks for CS109 course.
+
 ### HW0 
   Basic Python programming and use of Libraries.
 
